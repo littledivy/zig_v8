@@ -1,0 +1,8 @@
+*.o
+*.a
+zig-out/
+zig-cache/
+v8/
+gn_out/
+*.so
+.cipd
